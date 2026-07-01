@@ -24,7 +24,6 @@ The dataset used in this project contains structured data related to customer/bu
 
 ### Visualization & Reporting
 - Power BI
-- Gamma (for PPT creation)
 
 ### Development Environment
 - Jupyter Notebook / VS Code
